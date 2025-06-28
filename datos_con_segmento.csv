@@ -1,0 +1,201 @@
+ID,frecuencia_compra,monto_promedio,cluster,segmento
+1,3,4162.9,1,Compradores Frecuentes Premium
+2,5,2888.5,1,Compradores Frecuentes Premium
+3,3,411.21,2,Regulares Balanceados
+4,1,280.43,2,Regulares Balanceados
+5,1,755.88,2,Regulares Balanceados
+6,8,166.99,2,Regulares Balanceados
+7,10,469.26,2,Regulares Balanceados
+8,2,3489.4,1,Compradores Frecuentes Premium
+9,3,2718.3,1,Compradores Frecuentes Premium
+10,2,3774.56,1,Compradores Frecuentes Premium
+11,3,4574.51,1,Compradores Frecuentes Premium
+12,7,2967.23,0,Ocasionales Económicos
+13,1,3657.99,1,Compradores Frecuentes Premium
+14,10,3809.7,0,Ocasionales Económicos
+15,8,1951.47,0,Ocasionales Económicos
+16,10,1281.32,0,Ocasionales Económicos
+17,10,1104.72,0,Ocasionales Económicos
+18,10,1332.07,0,Ocasionales Económicos
+19,2,1446.19,2,Regulares Balanceados
+20,3,1115.42,2,Regulares Balanceados
+21,9,4403.28,0,Ocasionales Económicos
+22,7,3809.3,0,Ocasionales Económicos
+23,4,329.79,2,Regulares Balanceados
+24,10,1416.5,0,Ocasionales Económicos
+25,5,208.71,2,Regulares Balanceados
+26,2,2541.01,1,Compradores Frecuentes Premium
+27,8,2433.43,0,Ocasionales Económicos
+28,4,4173.72,1,Compradores Frecuentes Premium
+29,9,1608.11,0,Ocasionales Económicos
+30,5,4100.29,1,Compradores Frecuentes Premium
+31,9,4843.07,0,Ocasionales Económicos
+32,4,533.2,2,Regulares Balanceados
+33,10,3979.91,0,Ocasionales Económicos
+34,5,2990.78,1,Compradores Frecuentes Premium
+35,9,2452.23,0,Ocasionales Económicos
+36,8,2160.63,0,Ocasionales Económicos
+37,3,3944.87,1,Compradores Frecuentes Premium
+38,1,3232.87,1,Compradores Frecuentes Premium
+39,3,4044.72,1,Compradores Frecuentes Premium
+40,4,4525.44,1,Compradores Frecuentes Premium
+41,2,3124.59,1,Compradores Frecuentes Premium
+42,1,4904.27,1,Compradores Frecuentes Premium
+43,7,3079.63,0,Ocasionales Económicos
+44,8,3219.56,0,Ocasionales Económicos
+45,7,2818.6,0,Ocasionales Económicos
+46,5,545.91,2,Regulares Balanceados
+47,1,3659.35,1,Compradores Frecuentes Premium
+48,7,2782.49,0,Ocasionales Económicos
+49,7,2309.46,0,Ocasionales Económicos
+50,9,4561.31,0,Ocasionales Económicos
+51,3,1560.0,2,Regulares Balanceados
+52,9,2665.65,0,Ocasionales Económicos
+53,1,3518.45,1,Compradores Frecuentes Premium
+54,1,4002.71,1,Compradores Frecuentes Premium
+55,4,2350.8,1,Compradores Frecuentes Premium
+56,9,4226.25,0,Ocasionales Económicos
+57,6,3867.7,1,Compradores Frecuentes Premium
+58,3,424.56,2,Regulares Balanceados
+59,1,324.72,2,Regulares Balanceados
+60,4,3141.95,1,Compradores Frecuentes Premium
+61,9,1802.33,0,Ocasionales Económicos
+62,3,1124.74,2,Regulares Balanceados
+63,9,2940.28,0,Ocasionales Económicos
+64,7,1773.66,2,Regulares Balanceados
+65,4,2732.59,1,Compradores Frecuentes Premium
+66,3,2354.58,1,Compradores Frecuentes Premium
+67,10,2965.35,0,Ocasionales Económicos
+68,5,2061.47,2,Regulares Balanceados
+69,5,3518.57,1,Compradores Frecuentes Premium
+70,3,982.33,2,Regulares Balanceados
+71,9,3512.86,0,Ocasionales Económicos
+72,4,2117.14,2,Regulares Balanceados
+73,5,4384.16,1,Compradores Frecuentes Premium
+74,4,2624.66,1,Compradores Frecuentes Premium
+75,5,4868.24,1,Compradores Frecuentes Premium
+76,7,3049.48,0,Ocasionales Económicos
+77,9,1196.86,2,Regulares Balanceados
+78,7,4126.77,0,Ocasionales Económicos
+79,5,1790.9,2,Regulares Balanceados
+80,10,1803.33,0,Ocasionales Económicos
+81,10,255.84,2,Regulares Balanceados
+82,7,2788.71,0,Ocasionales Económicos
+83,10,2718.68,0,Ocasionales Económicos
+84,5,1844.36,2,Regulares Balanceados
+85,3,4481.66,1,Compradores Frecuentes Premium
+86,7,730.87,2,Regulares Balanceados
+87,2,1717.49,2,Regulares Balanceados
+88,9,1675.76,0,Ocasionales Económicos
+89,10,552.22,2,Regulares Balanceados
+90,10,2457.61,0,Ocasionales Económicos
+91,1,3470.15,1,Compradores Frecuentes Premium
+92,6,2607.12,0,Ocasionales Económicos
+93,7,869.19,2,Regulares Balanceados
+94,8,1948.7,0,Ocasionales Económicos
+95,10,112.72,2,Regulares Balanceados
+96,9,4354.68,0,Ocasionales Económicos
+97,2,514.13,2,Regulares Balanceados
+98,10,3026.66,0,Ocasionales Económicos
+99,2,4932.66,1,Compradores Frecuentes Premium
+100,5,2729.29,1,Compradores Frecuentes Premium
+101,5,4627.8,1,Compradores Frecuentes Premium
+102,6,1256.97,2,Regulares Balanceados
+103,3,3823.78,1,Compradores Frecuentes Premium
+104,8,2703.2,0,Ocasionales Económicos
+105,1,3630.53,1,Compradores Frecuentes Premium
+106,6,405.47,2,Regulares Balanceados
+107,4,823.92,2,Regulares Balanceados
+108,1,752.27,2,Regulares Balanceados
+109,7,3467.11,0,Ocasionales Económicos
+110,9,4237.76,0,Ocasionales Económicos
+111,4,3773.12,1,Compradores Frecuentes Premium
+112,4,249.31,2,Regulares Balanceados
+113,6,4349.35,1,Compradores Frecuentes Premium
+114,3,1835.32,2,Regulares Balanceados
+115,6,2046.1,2,Regulares Balanceados
+116,7,613.86,2,Regulares Balanceados
+117,10,3713.29,0,Ocasionales Económicos
+118,10,993.19,0,Ocasionales Económicos
+119,3,2863.43,1,Compradores Frecuentes Premium
+120,7,4219.48,0,Ocasionales Económicos
+121,3,537.1,2,Regulares Balanceados
+122,2,2723.14,1,Compradores Frecuentes Premium
+123,10,1242.76,0,Ocasionales Económicos
+124,4,1780.34,2,Regulares Balanceados
+125,8,2422.45,0,Ocasionales Económicos
+126,9,1840.01,0,Ocasionales Económicos
+127,7,3279.23,0,Ocasionales Económicos
+128,1,2449.95,1,Compradores Frecuentes Premium
+129,3,2962.58,1,Compradores Frecuentes Premium
+130,9,3710.43,0,Ocasionales Económicos
+131,1,2832.94,1,Compradores Frecuentes Premium
+132,9,2974.02,0,Ocasionales Económicos
+133,8,2865.85,0,Ocasionales Económicos
+134,1,1955.99,1,Compradores Frecuentes Premium
+135,6,1753.49,2,Regulares Balanceados
+136,5,4508.27,1,Compradores Frecuentes Premium
+137,6,3077.02,0,Ocasionales Económicos
+138,10,1297.33,0,Ocasionales Económicos
+139,5,2541.41,1,Compradores Frecuentes Premium
+140,6,1718.71,2,Regulares Balanceados
+141,5,4675.09,1,Compradores Frecuentes Premium
+142,5,136.92,2,Regulares Balanceados
+143,4,1204.13,2,Regulares Balanceados
+144,3,1890.25,2,Regulares Balanceados
+145,3,2490.27,1,Compradores Frecuentes Premium
+146,4,4269.01,1,Compradores Frecuentes Premium
+147,9,530.65,2,Regulares Balanceados
+148,2,4048.74,1,Compradores Frecuentes Premium
+149,9,372.7,2,Regulares Balanceados
+150,1,4227.34,1,Compradores Frecuentes Premium
+151,1,353.01,2,Regulares Balanceados
+152,5,189.39,2,Regulares Balanceados
+153,6,3515.11,0,Ocasionales Económicos
+154,6,4986.55,1,Compradores Frecuentes Premium
+155,3,4493.39,1,Compradores Frecuentes Premium
+156,7,2922.39,0,Ocasionales Económicos
+157,9,4595.24,0,Ocasionales Económicos
+158,10,125.97,2,Regulares Balanceados
+159,8,4877.83,0,Ocasionales Económicos
+160,6,2504.67,0,Ocasionales Económicos
+161,8,3642.19,0,Ocasionales Económicos
+162,5,4122.22,1,Compradores Frecuentes Premium
+163,8,3620.44,0,Ocasionales Económicos
+164,10,2721.68,0,Ocasionales Económicos
+165,4,2435.44,1,Compradores Frecuentes Premium
+166,10,4209.05,0,Ocasionales Económicos
+167,8,1104.88,2,Regulares Balanceados
+168,10,4843.17,0,Ocasionales Económicos
+169,2,3583.67,1,Compradores Frecuentes Premium
+170,5,1077.58,2,Regulares Balanceados
+171,9,3707.61,0,Ocasionales Económicos
+172,4,2696.22,1,Compradores Frecuentes Premium
+173,6,3565.43,0,Ocasionales Económicos
+174,1,3862.12,1,Compradores Frecuentes Premium
+175,9,527.72,2,Regulares Balanceados
+176,1,2579.91,1,Compradores Frecuentes Premium
+177,5,4666.87,1,Compradores Frecuentes Premium
+178,4,1671.15,2,Regulares Balanceados
+179,3,3010.03,1,Compradores Frecuentes Premium
+180,6,1909.23,2,Regulares Balanceados
+181,2,2325.91,1,Compradores Frecuentes Premium
+182,3,2788.16,1,Compradores Frecuentes Premium
+183,5,2789.72,1,Compradores Frecuentes Premium
+184,9,1088.48,2,Regulares Balanceados
+185,2,3454.4,1,Compradores Frecuentes Premium
+186,10,530.55,2,Regulares Balanceados
+187,8,780.24,2,Regulares Balanceados
+188,2,113.28,2,Regulares Balanceados
+189,5,671.81,2,Regulares Balanceados
+190,7,2418.51,0,Ocasionales Económicos
+191,8,3069.9,0,Ocasionales Económicos
+192,1,3992.02,1,Compradores Frecuentes Premium
+193,6,622.83,2,Regulares Balanceados
+194,1,4268.56,1,Compradores Frecuentes Premium
+195,2,3755.28,1,Compradores Frecuentes Premium
+196,1,2101.74,1,Compradores Frecuentes Premium
+197,5,4671.4,1,Compradores Frecuentes Premium
+198,10,4955.55,0,Ocasionales Económicos
+199,9,1104.51,2,Regulares Balanceados
+200,6,1958.22,2,Regulares Balanceados
